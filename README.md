@@ -103,3 +103,21 @@ In software development, requirements are typically classified into two main cat
 ---
 
 Understanding both types of requirements ensures that the system is not only functional but also efficient, secure, and user-friendly.
+
+## 📊 Use Case Diagrams
+
+### What is a Use Case Diagram?
+
+A **Use Case Diagram** is a visual representation of the interactions between users (actors) and a system. It shows the system's functionality from an end-user perspective and helps identify the main features (use cases) of the system.
+
+### 🔍 Benefits of Use Case Diagrams:
+- Clarifies user-system interactions
+- Helps identify functional requirements early
+- Supports communication among stakeholders
+- Acts as a foundation for test case design and development planning
+
+### 🖼️ Use Case Diagram for the Booking Management System
+
+Below is a use case diagram that represents the core interactions in a typical booking management system:
+
+![Use Case Diagram](./alx-booking-uc.png)
