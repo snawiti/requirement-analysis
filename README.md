@@ -69,3 +69,37 @@ Requirement Analysis is made up of several core activities that ensure the softw
 
 - **✔️ Requirement Validation**  
   Finally, the documented and modeled requirements are validated with stakeholders to ensure accuracy, feasibility, and alignment with business goals. This step confirms that the requirements are ready for design and development.
+
+## 🧩 Types of Requirements
+
+In software development, requirements are typically classified into two main categories: **Functional Requirements** and **Non-functional Requirements**. Both are essential for creating a complete and effective software system.
+
+---
+
+### 🔧 Functional Requirements
+
+**Functional Requirements** define what the system should do. These are the core features and behaviors of the system that support user tasks and business processes.
+
+#### 📌 Examples for a Booking Management System:
+- Users can create, view, update, and cancel bookings.
+- The system should allow users to search for available slots by date, time, or service.
+- Admins can manage available resources, time slots, and booking policies.
+- The system should send confirmation emails upon successful booking.
+- Users must be able to register and log in using a secure authentication system.
+
+---
+
+### 📈 Non-functional Requirements
+
+**Non-functional Requirements** specify **how** the system performs its functions. These are often related to quality attributes such as performance, usability, reliability, and security.
+
+#### 📌 Examples for a Booking Management System:
+- The system should respond to booking requests within 2 seconds under normal load.
+- The application must be accessible on both desktop and mobile devices.
+- The system must handle at least 500 concurrent users without performance degradation.
+- User data must be encrypted both in transit and at rest.
+- The system should maintain 99.9% uptime per month.
+
+---
+
+Understanding both types of requirements ensures that the system is not only functional but also efficient, secure, and user-friendly.
